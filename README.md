@@ -14,7 +14,7 @@
    * Transaction Control Lanjuage(TCL)
        { Commit, Rollback, Savepoint }
 
-### 4) Keys & Cconstraints
+### 4) Keys & Constraints
 ### 5) Clauses
           { where, having, group by, order by, partion by, over ...}
 ### 6) Functions 
